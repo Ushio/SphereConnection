@@ -2,7 +2,7 @@
 
 ```
 
-git submodule init --update
+git submodule update --init
 premake5 vs2017
 
 ```
